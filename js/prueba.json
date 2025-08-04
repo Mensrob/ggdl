@@ -15,7 +15,6 @@
 		"MrKoolTrix"
 	],
 	"verifier": "Golden",
-	"verification": "https://www.youtube.com/watch?v=Uky3BixaaDc",
 	"percentToQualify": 100,
 	"password": "040400",
 	"records": [
@@ -31,36 +30,7 @@
 			"percent": 100,
 			"hz": 360
 		},
-		{
-			"user": "theworldofme",
-			"link": "https://www.youtube.com/watch?v=wapxUIvbrgk",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Lia",
-			"link": "https://youtu.be/DWd5PoEmXc0",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Bleamer",
-			"link": "https://www.youtube.com/watch?v=uhtgajo-a0A&t=&ab_channel=Bleamer",
-			"percent": 100,
-			"hz": 144
-		},
-		{
-			"user": "ultrakawaHD",
-			"link": "https://www.youtube.com/watch?v=V1g2_z25x2Q",
-			"percent": 100,
-			"hz": 144
-		},
-		{
-			"user": "SamtheFman",
-			"link": "https://www.youtube.com/watch?v=4la3sRhgltw",
-			"percent": 100,
-			"hz": 144
-		},
+		
 		{
 			"user": "TheyCallMeEvan",
 			"link": "https://youtu.be/LW37Gwaegrw",
