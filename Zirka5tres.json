@@ -1,0 +1,25 @@
+{
+	"id": 126,
+	"name": "Zirka5tres",
+	"tags": [
+		"2.2",
+		"short"
+	],
+	"author": "Mensreal",
+	"creators": [],
+	"verifier": "Mensreal",
+	"verification": "https://youtu.be/gEc2dURUjW4",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Mensreal",
+			"link": "https://youtu.be/gEc2dURUjW4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lelzi",
+			"percent": 100,
+			"hz": 60
+		}
